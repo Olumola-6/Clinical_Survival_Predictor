@@ -14,6 +14,11 @@ To demonstrate how standard data analysis (similar to Excel pivot tables or Powe
 3.  **Group Aggregation:** Group patients by their clinical outcome (Malignant/Benign) to calculate average physical traits, replicating the function of a pivot table.
 4.  **Correlation Analysis:** Quantify the linear relationship between tumor traits and patient outcomes using a correlation matrix.
 
+
+
+## Visuals
+<img width="695" height="571" alt="Heatmap chart" src="https://github.com/user-attachments/assets/86662117-db7c-4edc-bd62-5960edef2449" />
+
 ### Phase 2: Predictive Modeling
 
 1.  **Data Splitting:** Randomly split the data, holding out 20% of records as a test set to evaluate model performance on unseen data.
@@ -33,7 +38,6 @@ The analysis revealed distinct physical differences between malignant and benign
 | Benign | 12.15 | 78.08 | 17.91 |
 
 
-<img width="695" height="571" alt="Heatmap chart" src="https://github.com/user-attachments/assets/86662117-db7c-4edc-bd62-5960edef2449" />
 
 
 ### 2. Model Performance on Test Set (n=114)
@@ -55,5 +59,5 @@ The analysis revealed distinct physical differences between malignant and benign
     - **seaborn & matplotlib:** Data visualization (optional, for generating charts).
 
 ## Quick Start
-1. Clone the repo: `git clone https://github.com/Olumola-6/clinical-survival-predictor.git`
+1. Clone the repo: `git clone https://github.com/Olumola-6/Clinical-Survival-Predictor.git`
 2. Open `clinical_survival_prediction-checkpoint.ipynb` in Jupyter Notebook and click "Run All".
