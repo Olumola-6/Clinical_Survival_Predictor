@@ -17,7 +17,7 @@ To demonstrate how standard data analysis (similar to Excel pivot tables or Powe
 
 
 ## Visuals
-<img width="695" height="571" alt="Heatmap chart" src="https://github.com/user-attachments/assets/86662117-db7c-4edc-bd62-5960edef2449" />
+![Correlation Heatmap](Heatmap%20chart.png)
 
 ### Phase 2: Predictive Modeling
 
@@ -59,5 +59,5 @@ The analysis revealed distinct physical differences between malignant and benign
     - **seaborn & matplotlib:** Data visualization (optional, for generating charts).
 
 ## Quick Start
-1. Clone the repo: `git clone https://github.com/Olumola-6/Clinical-Survival-Predictor.git`
+1. Clone the repo: `git clone https://github.com/Olumola-6/Clinical_Survival_Predictor.git`
 2. Open `clinical_survival_prediction-checkpoint.ipynb` in Jupyter Notebook and click "Run All".
